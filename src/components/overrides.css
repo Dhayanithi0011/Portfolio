@@ -245,7 +245,7 @@ section {
    HERO AVATAR — rings (inner ring has NO animation whatsoever)
    ============================================================ */
 .hero-avatar-wrap {
-  --av: clamp(200px, 22vw, 260px);
+  --av: clamp(290px, 32vw, 380px);
   position: relative;
   width: var(--av);
   height: var(--av);
@@ -388,7 +388,7 @@ section {
   }
 
   .hero-avatar-wrap {
-    --av: clamp(170px, 24vw, 220px);
+    --av: clamp(240px, 30vw, 310px);
   }
 
   .hero-headline {
@@ -490,7 +490,7 @@ section {
   }
 
   .hero-avatar-wrap {
-    --av: 130px;
+    --av: 200px;
     margin-top: 48px;
     margin-bottom: 48px;
   }
@@ -695,7 +695,7 @@ section {
   }
 
   .hero-avatar-wrap {
-    --av: 140px;
+    --av: 210px;
   }
 
   .hero-built-with .built-with-chip span {
@@ -905,7 +905,7 @@ section {
   }
 
   .hero-avatar-wrap {
-    --av: 125px;
+    --av: 190px;
   }
 
   .orbit-dot {
@@ -1166,7 +1166,7 @@ section {
   }
 
   .hero-avatar-wrap {
-    --av: 108px;
+    --av: 165px;
   }
 
   .section-title {

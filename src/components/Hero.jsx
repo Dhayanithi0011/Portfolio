@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
-import profilePhoto from '../assests/photo 2.jpg'
+import profilePhoto from '../assests/photo2.jpg'
 
 /* ── Code snippets ── */
 const CODE_LINES = [
@@ -225,7 +225,7 @@ export default function Hero() {
             <div className="avatar-ring-inner">
               <div className="avatar-circle">
                 {/* ── Profile photo ── */}
-                <img src alt="Dhayanithi M" />
+                <img src={profilePhoto} alt="Dhayanithi M" />
               </div>
             </div>
 
