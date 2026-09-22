@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState, useCallback } from 'react'
-import profilePhoto from '../assests/photo2.jpg'
+import profilePhoto from '../assests/photo2.jpeg'
 
 /* ── Code snippets ── */
 const CODE_LINES = [
